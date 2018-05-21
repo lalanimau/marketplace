@@ -14,7 +14,7 @@ in this repo include:
   loyalty point program that users can interact with through a simple web app
 - a **shell** with all of the dependencies necessary to run support scripts
 
-## Usage
+## Usage 
 
 This project utilizes [Docker](https://www.docker.com/what-docker) to simplify
 dependencies and deployment. After cloning this repo, follow the instructions
